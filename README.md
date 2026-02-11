@@ -14,7 +14,7 @@ To demonstrate how useReducer can be used as a powerful alternative to external 
 - 🧠 useMemo for performance optimization
 - 🌍 Context API for global state sharing
 
-![](./public/screenshot.png)
+![](./public/screeenshot.png)
 
 ## 🎉 Build With:
 
