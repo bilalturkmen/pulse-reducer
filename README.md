@@ -13,7 +13,7 @@ https://reducerpulse.netlify.app/
 - Optimizing performance with useMemo.
 - Responsive design and clean component structure.
 
-![](./public/screenshot.png)
+![](./public/screeenshot.png)
 
 ## 🎉 Build With:
 
