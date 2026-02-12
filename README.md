@@ -1,4 +1,4 @@
-<h1>🚀 ReducerPulse</h1>
+<h1>ReducerPulse</h1>
 
 https://reducerpulse.netlify.app/
 
