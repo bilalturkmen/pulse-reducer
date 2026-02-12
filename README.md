@@ -3,20 +3,20 @@
 https://reducerpulse.netlify.app/
 
 <div>
-  Training project on useReducer, useMemo and Context API
+  A simple workout interval timer built with React.
 </div>
 
-## 👍 My Challenges:
+This project demonstrates how to use:
 
-To demonstrate how useReducer can be used as a powerful alternative to external state libraries while maintaining clean, scalable architecture in real-world scenarios.
+- `useReducer` for state management
+- `Context API` for global state sharing
+- `useMemo` for performance optimization
 
-- ⚙️ useReducer for predictable state transitions
-- 🧠 useMemo for performance optimization
-- 🌍 Context API for global state sharing
+The goal is to showcase scalable state patterns without using external libraries like Redux.
 
 ![](./public/screeenshot.png)
 
-## 🎉 Build With:
+## 🛠 Build With:
 
 - React JS
 - Semantic HTML5 markup
