@@ -1,7 +1,8 @@
 const FooterAttribution = () => {
   return (
     <footer className="footer">
-      Training project on useReducer, useMemo and Context API - Coded by{" "}
+      A Workout Timer Demo powered by useReducer, useMemo and Context API -
+      Coded by{" "}
       <a
         className="underline"
         href="https://bilalturkmen.com"

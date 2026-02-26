@@ -3,7 +3,7 @@
 https://pulsereducer.netlify.app/
 
 <div>
-  A training project demonstrating useReducer, Context API, and useMemo by building a workout interval timer.
+  A React project exploring state management with `useReducer`, `Context API`, and optimized rendering using `useMemo`.
 </div>
 
 ## 👍 My Challenges:
