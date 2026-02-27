@@ -1,10 +1,8 @@
-<h1>PulseReducer</h1>
+<h1>Pulse Reducer</h1>
 
 https://pulsereducer.netlify.app/
 
-<div>
-  A React project exploring state management with `useReducer`, `Context API`, and optimized rendering using `useMemo`.
-</div>
+A workout timer project exploring state management with `useReducer`, `Context API`, and optimized rendering using `useMemo`.
 
 ## 👍 My Challenges:
 
