@@ -2,7 +2,7 @@
 
 https://pulsereducer.netlify.app/
 
-Workout timer project on state management with `useReducer`, `Context API` and optimized rendering with `useMemo`
+Workout timer project on state management with `useReducer`, `Context Api` and optimized rendering with `useMemo`
 
 ## 👍 My Challenges:
 
